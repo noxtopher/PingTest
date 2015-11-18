@@ -1,0 +1,1 @@
+C:\Users\nockc\Documents\Projects\PingTest\PingTest\obj\x86\Debug\PingTest.csprojResolveAssemblyReference.cache
